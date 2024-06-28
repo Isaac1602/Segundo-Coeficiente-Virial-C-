@@ -1,0 +1,2 @@
+python3 VirialCaso3.py
+xmgrace sig15.dat sig20.dat sig25.dat sig30.dat
